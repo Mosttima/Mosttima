@@ -31,7 +31,7 @@
 
 <br>
 
-<img src="https://github.com/Mosttima/Mosttima/blob/554b53392d575d38751e2a4cdf50c0935cf87b19/3cbaa4356e1fc2b5e51b0fa0e293386f-removebg-preview.png?raw=true" width="300"/>
+<img src="https://github.com/Mosttima/Mosttima/blob/b124b03938ef0eb24b6edf1473234d89a543840d/67bea930759c6f98a6c6ad2326c1820f.jpg?raw=true" width="300"/>
 <h2>
   <img src="https://github.com/Mosttima/Mosttima/blob/554b53392d575d38751e2a4cdf50c0935cf87b19/9cca4ca93b256e167f43cbba8b81793f-removebg-preview.png?raw=true" width="45"/>
   <img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=35&duration=4000&pause=1000&color=FFC46B&center=true&vCenter=true&width=300&lines=My+little+squid" />
