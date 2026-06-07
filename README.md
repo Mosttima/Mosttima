@@ -18,7 +18,16 @@
 
 <img src="https://github.com/Mosttima/Mosttima/blob/554b53392d575d38751e2a4cdf50c0935cf87b19/ee26488a7b230a7bafc0db9fe7633890-removebg-preview.png?raw=true" width="300"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=38&duration=3500&pause=1000&color=FFB347&center=true&vCenter=true&width=620&lines=that's+it+i'm+getting+sarcastic+%E2%9C%A6;My+little+squid+%E2%99%A1" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=42&duration=3000&pause=900&color=FFD166&center=true&vCenter=true&width=600&lines=%E2%9C%A6You+are+my+sunshine%E2%9C%A6" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=40&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=400&lines=%E2%9C%A6my+love%E2%9C%A6" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=40&duration=3000&pause=900&color=FFD166&center=true&vCenter=true&width=400&lines=%E2%9C%A6my+heart%E2%9C%A6" />
+
+</div>
+
 
 <br>
 
