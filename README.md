@@ -38,8 +38,8 @@
   <img src="https://github.com/Mosttima/Mosttima/blob/554b53392d575d38751e2a4cdf50c0935cf87b19/9cca4ca93b256e167f43cbba8b81793f-removebg-preview.png?raw=true" width="45"/>
 </h2>
 
-<img src="https://img.shields.io/badge/squi-815-FFB347?style=for-the-badge&labelColor=16161a"/>
-<img src="https://img.shields.io/badge/mood-sarcastic-FFC46B?style=for-the-badge&labelColor=16161a"/>
+<img src="https://img.shields.io/badge/squi-1,896-FFB347?style=for-the-badge&labelColor=16161a"/>
+<img src="https://img.shields.io/badge/sun-nightmare-FFC46B?style=for-the-badge&labelColor=16161a"/>
 <img src="https://img.shields.io/badge/status-sleepy-FFD580?style=for-the-badge&labelColor=16161a"/>
 
 <img src="https://github.com/Mosttima/Mosttima/blob/805d23d319660049155de9062da9a91f40c07971/421caa47-ddaa-43e4-bb58-f8de1a066439.png?raw=true" width="400"/>
