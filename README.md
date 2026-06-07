@@ -33,13 +33,19 @@
 <img src="https://img.shields.io/badge/mood-sarcastic-FFC46B?style=for-the-badge&labelColor=16161a"/>
 <img src="https://img.shields.io/badge/status-sleepy-FFD580?style=for-the-badge&labelColor=16161a"/>
 
+<img src="https://github.com/Mosttima/Mosttima/blob/805d23d319660049155de9062da9a91f40c07971/421caa47-ddaa-43e4-bb58-f8de1a066439.png?raw=true" width="400"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=45&duration=4000&pause=1000&color=FFD166&center=true&vCenter=true&width=500&lines=i+love+my+bf!!" />
+
 <br><br>
 
 <img src="https://github.com/Mosttima/Mosttima/blob/554b53392d575d38751e2a4cdf50c0935cf87b19/c87a370bd618abe0410bc1e16a5be092-removebg-preview.png?raw=true" width="600"/>
 
+<div align="center">
+
+
 <br><br>
 
-<img src="https://github.com/Mosttima/Mosttima/blob/554b53392d575d38751e2a4cdf50c0935cf87b19/c87a370bd618abe0410bc1e16a5be092-removebg-preview.png?raw=true" width="600"/>
 
 </td>
 </tr>
