@@ -35,7 +35,7 @@
 
 <br><br>
 
-♡ 𓆩 [rentry](YOUR_LINK) 𓆪 ・ 𓆩 [ata](YOUR_LINK) 𓆪 ・ 𓆩 [prns](YOUR_LINK) 𓆪 ♡
+<img src="https://github.com/Mosttima/Mosttima/blob/554b53392d575d38751e2a4cdf50c0935cf87b19/c87a370bd618abe0410bc1e16a5be092-removebg-preview.png?raw=true" width="600"/>
 
 <br><br>
 
