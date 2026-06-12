@@ -28,7 +28,6 @@
 
 </div>
 
-
 <br>
 
 <img src="https://github.com/Mosttima/Mosttima/blob/b124b03938ef0eb24b6edf1473234d89a543840d/67bea930759c6f98a6c6ad2326c1820f.jpg?raw=true" width="300"/>
@@ -54,7 +53,6 @@
 
 
 <br><br>
-
 
 </td>
 </tr>
