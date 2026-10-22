@@ -13,13 +13,9 @@
   <p>
    
 ${\textsf{\color{#E8CFA5} 𝓪}}$ ${\textsf{\color{#E6C8B5} 𝓵}}$ ${\textsf{\color{#E4C1C8} 𝓲}}$ ${\textsf{\color{#DEBBD8} 𝓽}}$ ${\textsf{\color{#D5B9E3} 𝓽}}$ ${\textsf{\color{#C8B5E8} 𝓵}}$
-
 ${\textsf{\color{#E8CFA5} 𝓹}}$ ${\textsf{\color{#E6C8B5} 𝓲}}$ ${\textsf{\color{#E4C1C8} 𝓮}}$ ${\textsf{\color{#DEBBD8} 𝓬}}$ ${\textsf{\color{#D5B9E3} 𝓮}}$
-
 ${\textsf{\color{#E8CFA5} 𝓸}}$ ${\textsf{\color{#E6C8B5} 𝓯}}$
-
 ${\textsf{\color{#E8CFA5} 𝓶}}$ ${\textsf{\color{#E6C8B5} 𝔂}}$
-
 ${\textsf{\color{#E4C1C8} 𝔀}}$ ${\textsf{\color{#DEBBD8} 𝓸}}$ ${\textsf{\color{#D5B9E3} 𝓻}}$ ${\textsf{\color{#C8B5E8} 𝓵}}$ ${\textsf{\color{#C2B0E3} 𝓭}}$
 
   </p>
