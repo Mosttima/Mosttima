@@ -31,6 +31,12 @@ ${\textsf{\color{#E8CFA5} ᵇʸ ᵐʸ ˢᶦᵈᵉ,}}$ ${\textsf{\color{#E5BFCB} 
 ${\textsf{\color{#C8B5E8} ᵃˡʷᵃʸˢ ᶠᶦⁿᵈ ᵒᵘʳ ʷᵃʸ}}$ ${\textsf{\color{#E8CFA5} ᵇᵃᶜᵏ ʰᵒᵐᵉ}}$
 
   </p>
+  
+   <p>
+
+${\textsf{\color{#D4A373} ꒰}}{\textsf{\color{#D9A771} ঌ}}$ ${\textsf{\color{#DFAC70} ♡}}$ ${\textsf{\color{#E4B16E} ໒}}{\textsf{\color{#E9B66C} ꒱}}$ ${\textsf{\color{#EEBB6B}  }}{\textsf{\color{#F3C069} ✧}}{\textsf{\color{#F8C568}  }}$ ${\textsf{\color{#F4CF82} ꒰}}{\textsf{\color{#E3CA9F} ঌ}}$ ${\textsf{\color{#D2C5BC} ♡}}$ ${\textsf{\color{#C1C0D9} ໒}}{\textsf{\color{#B88BBA} ꒱}}$
+
+</p>
 
   <br>
   <a href="https://bleakkk.atabook.org/">
