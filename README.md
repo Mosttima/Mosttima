@@ -36,7 +36,9 @@ ${\textsf{\color{#C8B5E8} ᵃˡʷᵃʸˢ ᶠᶦⁿᵈ ᵒᵘʳ ʷᵃʸ}}$ ${\tex
   </a>
   <p>
 
-<span style="color:#F3E5AB"><samp>꒰ঌ ♡ ໒꒱　✧　꒰ঌ ♡ ໒꒱</samp></span>
+${\textsf{\color{#D4A373} ꒰}}{\textsf{\color{#D9A771} ঌ}}$ ${\textsf{\color{#DFAC70} ♡}}$ ${\textsf{\color{#E4B16E} ໒}}{\textsf{\color{#E9B66C} ꒱}}$ ${\textsf{\color{#EEBB6B}  }}{\textsf{\color{#F3C069} ✧}}{\textsf{\color{#F8C568}  }}$ ${\textsf{\color{#F4CF82} ꒰}}{\textsf{\color{#E3CA9F} ঌ}}$ ${\textsf{\color{#D2C5BC} ♡}}$ ${\textsf{\color{#C1C0D9} ໒}}{\textsf{\color{#B88BBA} ꒱}}$
+
+</p>
 
   </p>
 
