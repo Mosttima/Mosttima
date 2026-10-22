@@ -10,38 +10,13 @@ ${\textsf{\color{#E4C1C8} 𝔀}}$ ${\textsf{\color{#DEBBD8} 𝓸}}$ ${\textsf{\c
 
   </p>
   <p>
-${\textsf{\color{#E8CFA5} No}}$ 
-${\textsf{\color{#E6C6BC} matter}}$
-${\textsf{\color{#E4C1CA} how}}$ 
-${\textsf{\color{#E0BCD7} much}}$ 
-${\textsf{\color{#D8B9E2} this}}$ 
-${\textsf{\color{#C8B5E8} world}}$
-${\textsf{\color{#E8CFA5} collapses}}$
-${\textsf{\color{#E6C6BC} or}}$ 
-${\textsf{\color{#E4C1CA} falls}}$ 
-${\textsf{\color{#E0BCD7} apart,}}$ 
-${\textsf{\color{#D8B9E2} as}}$ 
-${\textsf{\color{#C8B5E8} long}}$
 
-${\textsf{\color{#E8CFA5} as}}$ 
-${\textsf{\color{#E6C6BC} I}}$ 
-${\textsf{\color{#E4C1CA} have}}$ 
-${\textsf{\color{#E0BCD7} you}}$ 
-${\textsf{\color{#D8B9E2} by}}$ 
-${\textsf{\color{#C8B5E8} my}}$ 
-${\textsf{\color{#E8CFA5} side,}}$
+${\textsf{\color{#E8CFA5} No matter}}$ ${\textsf{\color{#E5BFCB} how much}}$ ${\textsf{\color{#D7B9D9} this world}}$
+${\textsf{\color{#C8B5E8} collapses}}$ ${\textsf{\color{#B9B6D9} or falls apart,}}$
+${\textsf{\color{#AFC8D5} as long as}}$ ${\textsf{\color{#D7B9D9} I have you}}$
+${\textsf{\color{#E8CFA5} by my side,}}$ ${\textsf{\color{#E5BFCB} I know we will}}$
+${\textsf{\color{#C8B5E8} always find our way}}$ ${\textsf{\color{#E8CFA5} back home.}}$
 
-${\textsf{\color{#E6C6BC} I}}$ 
-${\textsf{\color{#E4C1CA} know}}$ 
-${\textsf{\color{#E0BCD7} we}}$ 
-${\textsf{\color{#D8B9E2} will}}$ 
-${\textsf{\color{#C8B5E8} always}}$ 
-${\textsf{\color{#E8CFA5} find}}$
-
-${\textsf{\color{#E6C6BC} our}}$ 
-${\textsf{\color{#E4C1CA} way}}$ 
-${\textsf{\color{#E0BCD7} back}}$ 
-${\textsf{\color{#C8B5E8} home.}}$
   </p>
 
   <img
