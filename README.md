@@ -21,11 +21,7 @@ ${\textsf{\color{#E8CFA5} 𝓶}}$ ${\textsf{\color{#E6C8B5} 𝔂}}$
 ${\textsf{\color{#E4C1C8} 𝔀}}$ ${\textsf{\color{#DEBBD8} 𝓸}}$ ${\textsf{\color{#D5B9E3} 𝓻}}$ ${\textsf{\color{#C8B5E8} 𝓵}}$ ${\textsf{\color{#C2B0E3} 𝓭}}$
 
   </p>
-<p>
   
-${\textsf{\color{#D4A373} ⋅˚₊‧ ౨ৎ______________˚༘ೀ｡˚ ‧₊˚}}$
-
-</p>
   <p>
 
 ${\textsf{\color{#E8CFA5} ᴺᵒ ᵐᵃᵗᵗᵉʳ}}$ ${\textsf{\color{#E5BFCB} ʰᵒʷ ᵐᵘᶜʰ}}$ ${\textsf{\color{#D7B9D9} ᵗʰᶦˢ ʷᵒʳˡᵈ}}$
@@ -35,12 +31,6 @@ ${\textsf{\color{#E8CFA5} ᵇʸ ᵐʸ ˢᶦᵈᵉ,}}$ ${\textsf{\color{#E5BFCB} 
 ${\textsf{\color{#C8B5E8} ᵃˡʷᵃʸˢ ᶠᶦⁿᵈ ᵒᵘʳ ʷᵃʸ}}$ ${\textsf{\color{#E8CFA5} ᵇᵃᶜᵏ ʰᵒᵐᵉ}}$
 
   </p>
-
-  <p>
-  
-${\textsf{\color{#D4A373} ⋅˚₊‧ ౨ৎ______________˚༘ೀ｡˚ ‧₊˚}}$
-
-</p>
 
   <br>
   <a href="https://bleakkk.atabook.org/">
