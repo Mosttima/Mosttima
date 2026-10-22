@@ -11,7 +11,17 @@
   <br><br>
 
   <p>
-    <samp>୨୧ ── 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓹𝓲𝓮𝓬𝓮 𝓸𝓯 𝓶𝔂 𝔀𝓸𝓻𝓵𝓭 ── ୨୧</samp>
+   
+${\textsf{\color{#E8CFA5} 𝓪}}$ ${\textsf{\color{#E6C8B5} 𝓵}}$ ${\textsf{\color{#E4C1C8} 𝓲}}$ ${\textsf{\color{#DEBBD8} 𝓽}}$ ${\textsf{\color{#D5B9E3} 𝓽}}$ ${\textsf{\color{#C8B5E8} 𝓵}}$
+
+${\textsf{\color{#E8CFA5} 𝓹}}$ ${\textsf{\color{#E6C8B5} 𝓲}}$ ${\textsf{\color{#E4C1C8} 𝓮}}$ ${\textsf{\color{#DEBBD8} 𝓬}}$ ${\textsf{\color{#D5B9E3} 𝓮}}$
+
+${\textsf{\color{#E8CFA5} 𝓸}}$ ${\textsf{\color{#E6C8B5} 𝓯}}$
+
+${\textsf{\color{#E8CFA5} 𝓶}}$ ${\textsf{\color{#E6C8B5} 𝔂}}$
+
+${\textsf{\color{#E4C1C8} 𝔀}}$ ${\textsf{\color{#DEBBD8} 𝓸}}$ ${\textsf{\color{#D5B9E3} 𝓻}}$ ${\textsf{\color{#C8B5E8} 𝓵}}$ ${\textsf{\color{#C2B0E3} 𝓭}}$
+
   </p>
 
   <!-- Pastel quote -->
@@ -53,7 +63,7 @@ ${\textsf{\color{#C8B5E8} home.}}$
   <br>
 
   <!-- ataBook image with personal link -->
-  <a href="THAY_BANG_LINK_ATABOOK_CUA_BAN">
+  <a href="https://bleakkk.atabook.org/">
     <img
       src="https://raw.githubusercontent.com/Mosttima/Mosttima/72432c99bdab3a0d19a06ba05e36527107e26c15/15417cea-7f01-4f36-b37f-43789f9ca537-removebg-preview.png"
       width="180"
