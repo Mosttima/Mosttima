@@ -9,8 +9,6 @@ ${\textsf{\color{#E8CFA5} 𝓶}}$ ${\textsf{\color{#E6C8B5} 𝔂}}$
 ${\textsf{\color{#E4C1C8} 𝔀}}$ ${\textsf{\color{#DEBBD8} 𝓸}}$ ${\textsf{\color{#D5B9E3} 𝓻}}$ ${\textsf{\color{#C8B5E8} 𝓵}}$ ${\textsf{\color{#C2B0E3} 𝓭}}$
 
   </p>
-
-  <!-- Pastel quote -->
   <p>
 ${\textsf{\color{#E8CFA5} No}}$ 
 ${\textsf{\color{#E6C6BC} matter}}$
@@ -55,7 +53,6 @@ ${\textsf{\color{#C8B5E8} home.}}$
   <br><br>
 
   <br>
-  <!-- ataBook image with personal link -->
   <a href="https://bleakkk.atabook.org/">
     <img
       src="https://raw.githubusercontent.com/Mosttima/Mosttima/72432c99bdab3a0d19a06ba05e36527107e26c15/15417cea-7f01-4f36-b37f-43789f9ca537-removebg-preview.png"
