@@ -21,6 +21,15 @@ ${\textsf{\color{#E8CFA5} 𝓶}}$ ${\textsf{\color{#E6C8B5} 𝔂}}$
 ${\textsf{\color{#E4C1C8} 𝔀}}$ ${\textsf{\color{#DEBBD8} 𝓸}}$ ${\textsf{\color{#D5B9E3} 𝓻}}$ ${\textsf{\color{#C8B5E8} 𝓵}}$ ${\textsf{\color{#C2B0E3} 𝓭}}$
 
   </p>
+<p>
+
+$$\textsf{\textcolor{#E0A96D}{⋅˚₊‧} \textcolor{#D4A373}{౨ৎ} \textcolor{#C5A880}{No\ matter\ how\ much\ this\ world\ collapses\ or\ falls\ apart,} \textcolor{#B88BBA}{౨ৎ} \textcolor{#E0A96D}{‧₊˚ ⋅}}$$
+
+$$\textsf{\textcolor{#E0A96D}{⋅˚₊‧} \textcolor{#B88BBA}{౨ৎ} \textcolor{#D4A373}{as\ long\ as\ I\ have\ you\ by\ my\ side,} \textcolor{#C5A880}{౨ৎ} \textcolor{#E0A96D}{‧₊˚ ⋅}}$$
+
+$$\textsf{\textcolor{#E0A96D}{⋅˚₊‧} \textcolor{#C5A880}{౨ৎ} \textcolor{#B88BBA}{I\ know\ we\ will\ always\ find\ our\ way\ back\ home.} \textcolor{#D4A373}{౨ৎ} \textcolor{#E0A96D}{‧₊˚ ⋅}}$$
+
+</p>
   <p>
 
 ${\textsf{\color{#E8CFA5} ᴺᵒ ᵐᵃᵗᵗᵉʳ}}$ ${\textsf{\color{#E5BFCB} ʰᵒʷ ᵐᵘᶜʰ}}$ ${\textsf{\color{#D7B9D9} ᵗʰᶦˢ ʷᵒʳˡᵈ}}$
