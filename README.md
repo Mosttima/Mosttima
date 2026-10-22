@@ -22,12 +22,8 @@ ${\textsf{\color{#E4C1C8} 𝔀}}$ ${\textsf{\color{#DEBBD8} 𝓸}}$ ${\textsf{\c
 
   </p>
 <p>
-
-$$\textsf{\textcolor{#E0A96D}{⋅˚₊‧} \textcolor{#D4A373}{౨ৎ} \textcolor{#C5A880}{No\ matter\ how\ much\ this\ world\ collapses\ or\ falls\ apart,} \textcolor{#B88BBA}{౨ৎ} \textcolor{#E0A96D}{‧₊˚ ⋅}}$$
-
-$$\textsf{\textcolor{#E0A96D}{⋅˚₊‧} \textcolor{#B88BBA}{౨ৎ} \textcolor{#D4A373}{as\ long\ as\ I\ have\ you\ by\ my\ side,} \textcolor{#C5A880}{౨ৎ} \textcolor{#E0A96D}{‧₊˚ ⋅}}$$
-
-$$\textsf{\textcolor{#E0A96D}{⋅˚₊‧} \textcolor{#C5A880}{౨ৎ} \textcolor{#B88BBA}{I\ know\ we\ will\ always\ find\ our\ way\ back\ home.} \textcolor{#D4A373}{౨ৎ} \textcolor{#E0A96D}{‧₊˚ ⋅}}$$
+  
+${\textsf{\color{#D4A373} ⋅˚₊‧ ౨ৎ______________˚༘ೀ｡˚ ‧₊˚}}$
 
 </p>
   <p>
@@ -39,6 +35,12 @@ ${\textsf{\color{#E8CFA5} ᵇʸ ᵐʸ ˢᶦᵈᵉ,}}$ ${\textsf{\color{#E5BFCB} 
 ${\textsf{\color{#C8B5E8} ᵃˡʷᵃʸˢ ᶠᶦⁿᵈ ᵒᵘʳ ʷᵃʸ}}$ ${\textsf{\color{#E8CFA5} ᵇᵃᶜᵏ ʰᵒᵐᵉ}}$
 
   </p>
+
+  <p>
+  
+${\textsf{\color{#D4A373} ⋅˚₊‧ ౨ৎ______________˚༘ೀ｡˚ ‧₊˚}}$
+
+</p>
 
   <br>
   <a href="https://bleakkk.atabook.org/">
