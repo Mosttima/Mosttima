@@ -62,7 +62,7 @@ ${\textsf{\color{#C8B5E8} home.}}$
   <a href="https://bleakkk.atabook.org/">
     <img
       src="https://raw.githubusercontent.com/Mosttima/Mosttima/72432c99bdab3a0d19a06ba05e36527107e26c15/15417cea-7f01-4f36-b37f-43789f9ca537-removebg-preview.png"
-      width="180"
+      width="400"
       alt="My ataBook"
     />
   </a>
