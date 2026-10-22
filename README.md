@@ -68,11 +68,9 @@ ${\textsf{\color{#C8B5E8} home.}}$
   </a>
 
   <p>
-    <sub>♡ little memories, forever treasured ♡</sub>
-  </p>
+   
+<span style="color:#F3E5AB"><samp>꒰ঌ ♡ ໒꒱　✧　꒰ঌ ♡ ໒꒱</samp></span>
 
-  <p>
-    <samp>꒰ঌ ♡ ໒꒱　✧　꒰ঌ ♡ ໒꒱</samp>
   </p>
 
 </div>
