@@ -1,16 +1,6 @@
 
 <div align="center">
-
-  <!-- Vintage background image -->
-  <img
-    src="https://raw.githubusercontent.com/Mosttima/Mosttima/72432c99bdab3a0d19a06ba05e36527107e26c15/1792675409053_59870881623794471_6231431203872381833_32029f507062b59492ac8952307cd1e2.jpg"
-    width="80%"
-    alt="Vintage pastel background"
-  />
-
-  <br><br>
-
-  <p>
+<p>
    
 ${\textsf{\color{#E8CFA5} 𝓪}}$ ${\textsf{\color{#E6C8B5} 𝓵}}$ ${\textsf{\color{#E4C1C8} 𝓲}}$ ${\textsf{\color{#DEBBD8} 𝓽}}$ ${\textsf{\color{#D5B9E3} 𝓽}}$ ${\textsf{\color{#C8B5E8} 𝓵}}$
 ${\textsf{\color{#E8CFA5} 𝓹}}$ ${\textsf{\color{#E6C8B5} 𝓲}}$ ${\textsf{\color{#E4C1C8} 𝓮}}$ ${\textsf{\color{#DEBBD8} 𝓬}}$ ${\textsf{\color{#D5B9E3} 𝓮}}$
@@ -55,6 +45,14 @@ ${\textsf{\color{#E4C1CA} way}}$
 ${\textsf{\color{#E0BCD7} back}}$ 
 ${\textsf{\color{#C8B5E8} home.}}$
   </p>
+
+  <img
+    src="https://raw.githubusercontent.com/Mosttima/Mosttima/72432c99bdab3a0d19a06ba05e36527107e26c15/1792675409053_59870881623794471_6231431203872381833_32029f507062b59492ac8952307cd1e2.jpg"
+    width="80%"
+    alt="Vintage pastel background"
+  />
+
+  <br><br>
 
   <br>
   <!-- ataBook image with personal link -->
