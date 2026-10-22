@@ -11,11 +11,11 @@ ${\textsf{\color{#E4C1C8} 𝔀}}$ ${\textsf{\color{#DEBBD8} 𝓸}}$ ${\textsf{\c
   </p>
   <p>
 
-${\textsf{\color{#E8CFA5} No matter}}$ ${\textsf{\color{#E5BFCB} how much}}$ ${\textsf{\color{#D7B9D9} this world}}$
-${\textsf{\color{#C8B5E8} collapses}}$ ${\textsf{\color{#B9B6D9} or falls apart,}}$
-${\textsf{\color{#AFC8D5} as long as}}$ ${\textsf{\color{#D7B9D9} I have you}}$
-${\textsf{\color{#E8CFA5} by my side,}}$ ${\textsf{\color{#E5BFCB} I know we will}}$
-${\textsf{\color{#C8B5E8} always find our way}}$ ${\textsf{\color{#E8CFA5} back home.}}$
+${\textsf{\color{#E8CFA5} ᴺᵒ ᵐᵃᵗᵗᵉʳ}}$ ${\textsf{\color{#E5BFCB} ʰᵒʷ ᵐᵘᶜʰ}}$ ${\textsf{\color{#D7B9D9} ᵗʰᶦˢ ʷᵒʳˡᵈ}}$
+${\textsf{\color{#C8B5E8} ᶜᵒˡˡᵃᵖˢᵉˢ}}$ ${\textsf{\color{#B9B6D9} ᵒʳ ᶠᵃˡˡˢ ᵃᵖᵃʳᵗ,}}$
+${\textsf{\color{#AFC8D5} ᵃˢ ˡᵒⁿᵍ ᵃˢ}}$ ${\textsf{\color{#D7B9D9} ᴵ ʰᵃᵛᵉ ʸᵒᵘ}}$
+${\textsf{\color{#E8CFA5} ᵇʸ ᵐʸ ˢᶦᵈᵉ,}}$ ${\textsf{\color{#E5BFCB} ᴵ ᵏⁿᵒʷ ʷᵉ ʷᶦˡˡ}}$
+${\textsf{\color{#C8B5E8} ᵃˡʷᵃʸˢ ᶠᶦⁿᵈ ᵒᵘʳ ʷᵃʸ}}$ ${\textsf{\color{#E8CFA5} ᵇᵃᶜᵏ ʰᵒᵐᵉ}}$
 
   </p>
 
