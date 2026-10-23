@@ -7,7 +7,7 @@ ${\textsf{\color{#D4A373} ꒰}}{\textsf{\color{#D9A771} ঌ}}$ ${\textsf{\color{
 </p>
   <img
     src="https://raw.githubusercontent.com/Mosttima/Mosttima/72432c99bdab3a0d19a06ba05e36527107e26c15/1792675409053_59870881623794471_6231431203872381833_32029f507062b59492ac8952307cd1e2.jpg"
-    width="80%"
+    width="90%"
     alt="Vintage pastel background"
   />
 
